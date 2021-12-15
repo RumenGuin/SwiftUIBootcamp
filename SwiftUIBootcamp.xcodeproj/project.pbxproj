@@ -14,6 +14,7 @@
 		35AB55772769B09F00BF0893 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AB55762769B09F00BF0893 /* TextBootcamp.swift */; };
 		35AB55792769B68200BF0893 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AB55782769B68200BF0893 /* ShapesBootcamp.swift */; };
 		35AB557B2769BBB100BF0893 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AB557A2769BBB100BF0893 /* ColorsBootcamp.swift */; };
+		35AB557D2769CB6400BF0893 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AB557C2769CB6400BF0893 /* GradientsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		35AB55762769B09F00BF0893 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		35AB55782769B68200BF0893 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		35AB557A2769BBB100BF0893 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		35AB557C2769CB6400BF0893 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				35AB55762769B09F00BF0893 /* TextBootcamp.swift */,
 				35AB55782769B68200BF0893 /* ShapesBootcamp.swift */,
 				35AB557A2769BBB100BF0893 /* ColorsBootcamp.swift */,
+				35AB557C2769CB6400BF0893 /* GradientsBootcamp.swift */,
 				35AB55502769A56300BF0893 /* Assets.xcassets */,
 				35AB55522769A56300BF0893 /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35AB557D2769CB6400BF0893 /* GradientsBootcamp.swift in Sources */,
 				35AB557B2769BBB100BF0893 /* ColorsBootcamp.swift in Sources */,
 				35AB55792769B68200BF0893 /* ShapesBootcamp.swift in Sources */,
 				35AB554F2769A56200BF0893 /* ContentView.swift in Sources */,
