@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		35600F69276A5BF900FC0257 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35600F68276A5BF900FC0257 /* PaddingAndSpacerBootcamp.swift */; };
 		35AB554D2769A56200BF0893 /* SwiftUIBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AB554C2769A56200BF0893 /* SwiftUIBootcampApp.swift */; };
 		35AB554F2769A56200BF0893 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AB554E2769A56200BF0893 /* ContentView.swift */; };
 		35AB55512769A56300BF0893 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35AB55502769A56300BF0893 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		35600F68276A5BF900FC0257 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 		35AB55492769A56200BF0893 /* SwiftUIBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35AB554C2769A56200BF0893 /* SwiftUIBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootcampApp.swift; sourceTree = "<group>"; };
 		35AB554E2769A56200BF0893 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				35C4EAA3276A362C00FCB5EB /* FrameBootcamp.swift */,
 				35C4EAA5276A3D4100FCB5EB /* BackgroundAndOverlayBootcamp.swift */,
 				35C4EAA7276A462700FCB5EB /* StacksBootcamp.swift */,
+				35600F68276A5BF900FC0257 /* PaddingAndSpacerBootcamp.swift */,
 				35AB55502769A56300BF0893 /* Assets.xcassets */,
 				35AB55522769A56300BF0893 /* Preview Content */,
 			);
@@ -166,6 +169,7 @@
 			files = (
 				35AB557D2769CB6400BF0893 /* GradientsBootcamp.swift in Sources */,
 				35C4EAA6276A3D4100FCB5EB /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				35600F69276A5BF900FC0257 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				35AB557B2769BBB100BF0893 /* ColorsBootcamp.swift in Sources */,
 				35C4EAA4276A362C00FCB5EB /* FrameBootcamp.swift in Sources */,
 				35AB55792769B68200BF0893 /* ShapesBootcamp.swift in Sources */,
