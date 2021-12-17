@@ -28,6 +28,7 @@
 		35C4EAA6276A3D4100FCB5EB /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C4EAA5276A3D4100FCB5EB /* BackgroundAndOverlayBootcamp.swift */; };
 		35C4EAA8276A462700FCB5EB /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C4EAA7276A462700FCB5EB /* StacksBootcamp.swift */; };
 		35CABE3E276CEA5A00ED0B37 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35CABE3D276CEA5A00ED0B37 /* ButtonsBootcamp.swift */; };
+		35CABE40276CEEA100ED0B37 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		35C4EAA5276A3D4100FCB5EB /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		35C4EAA7276A462700FCB5EB /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		35CABE3D276CEA5A00ED0B37 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
+		35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				35900D4D276BA99C0028D6EC /* GridBootcamp.swift */,
 				35900D4F276BB8940028D6EC /* SafeAreaBootcamp.swift */,
 				35CABE3D276CEA5A00ED0B37 /* ButtonsBootcamp.swift */,
+				35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */,
 				35AB55502769A56300BF0893 /* Assets.xcassets */,
 				35AB55522769A56300BF0893 /* Preview Content */,
 			);
@@ -188,6 +191,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35CABE40276CEEA100ED0B37 /* StateBootcamp.swift in Sources */,
 				35AB557D2769CB6400BF0893 /* GradientsBootcamp.swift in Sources */,
 				35C4EAA6276A3D4100FCB5EB /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				35A6A84A276B3AFC00AD57B6 /* ScrollViewBootcamp.swift in Sources */,
