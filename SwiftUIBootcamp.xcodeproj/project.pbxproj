@@ -31,6 +31,7 @@
 		35CABE40276CEEA100ED0B37 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */; };
 		35D5A907276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D5A906276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift */; };
 		35D5A909276CFD6300091C83 /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D5A908276CFD6300091C83 /* ExtractSubviewsBootcamp.swift */; };
+		35D5A90B276D00E200091C83 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D5A90A276D00E200091C83 /* BindingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		35D5A906276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 		35D5A908276CFD6300091C83 /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
+		35D5A90A276D00E200091C83 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */,
 				35D5A906276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift */,
 				35D5A908276CFD6300091C83 /* ExtractSubviewsBootcamp.swift */,
+				35D5A90A276D00E200091C83 /* BindingBootcamp.swift */,
 				35AB55502769A56300BF0893 /* Assets.xcassets */,
 				35AB55522769A56300BF0893 /* Preview Content */,
 			);
@@ -215,6 +218,7 @@
 				35AB55772769B09F00BF0893 /* TextBootcamp.swift in Sources */,
 				35AB554D2769A56200BF0893 /* SwiftUIBootcampApp.swift in Sources */,
 				35C4EAA8276A462700FCB5EB /* StacksBootcamp.swift in Sources */,
+				35D5A90B276D00E200091C83 /* BindingBootcamp.swift in Sources */,
 				35600F6B276A614500FC0257 /* SpacerBootcamp.swift in Sources */,
 				35900D4E276BA99C0028D6EC /* GridBootcamp.swift in Sources */,
 				35C4EAA2276A303A00FCB5EB /* ImageBootcamp.swift in Sources */,
