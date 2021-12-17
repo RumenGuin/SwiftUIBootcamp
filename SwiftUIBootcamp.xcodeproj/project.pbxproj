@@ -29,6 +29,7 @@
 		35C4EAA8276A462700FCB5EB /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C4EAA7276A462700FCB5EB /* StacksBootcamp.swift */; };
 		35CABE3E276CEA5A00ED0B37 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35CABE3D276CEA5A00ED0B37 /* ButtonsBootcamp.swift */; };
 		35CABE40276CEEA100ED0B37 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */; };
+		35D5A907276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D5A906276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		35C4EAA7276A462700FCB5EB /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		35CABE3D276CEA5A00ED0B37 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
+		35D5A906276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				35900D4F276BB8940028D6EC /* SafeAreaBootcamp.swift */,
 				35CABE3D276CEA5A00ED0B37 /* ButtonsBootcamp.swift */,
 				35CABE3F276CEEA100ED0B37 /* StateBootcamp.swift */,
+				35D5A906276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift */,
 				35AB55502769A56300BF0893 /* Assets.xcassets */,
 				35AB55522769A56300BF0893 /* Preview Content */,
 			);
@@ -198,6 +201,7 @@
 				35600F69276A5BF900FC0257 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				35AB557B2769BBB100BF0893 /* ColorsBootcamp.swift in Sources */,
 				35C4EAA4276A362C00FCB5EB /* FrameBootcamp.swift in Sources */,
+				35D5A907276CF9C900091C83 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				35ADF514276B237600C251D3 /* InitializerBootcamp.swift in Sources */,
 				35AB55792769B68200BF0893 /* ShapesBootcamp.swift in Sources */,
 				35CABE3E276CEA5A00ED0B37 /* ButtonsBootcamp.swift in Sources */,
