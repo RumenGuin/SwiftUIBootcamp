@@ -36,6 +36,7 @@ struct TransitionBootcamp: View {
                    // .transition(.move(edge: .leading)) //top or bottom is of the rectangle not the whole screen
                     
             }
+                
             
            
         }
