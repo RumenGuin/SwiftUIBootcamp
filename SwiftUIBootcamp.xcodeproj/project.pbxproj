@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		351193A0276F9ACE006962E6 /* TextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3511939F276F9ACE006962E6 /* TextFieldBootcamp.swift */; };
 		35295D14276E39FD00E68788 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35295D13276E39FD00E68788 /* SheetsBootcamp.swift */; };
 		35295D16276E3F4B00E68788 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35295D15276E3F4B00E68788 /* PopoverBootcamp.swift */; };
 		35295D18276E508800E68788 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35295D17276E508800E68788 /* NavigationViewBootcamp.swift */; };
@@ -47,6 +48,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3511939F276F9ACE006962E6 /* TextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootcamp.swift; sourceTree = "<group>"; };
 		35295D13276E39FD00E68788 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		35295D15276E3F4B00E68788 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		35295D17276E508800E68788 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				35E6AC10276F0EC000553543 /* AlertBootcamp.swift */,
 				35E6AC12276F16E000553543 /* ActionsheetBootcamp.swift */,
 				35E6AC14276F1CAA00553543 /* ContextMenuBootcamp.swift */,
+				3511939F276F9ACE006962E6 /* TextFieldBootcamp.swift */,
 				35AB55502769A56300BF0893 /* Assets.xcassets */,
 				35AB55522769A56300BF0893 /* Preview Content */,
 			);
@@ -244,6 +247,7 @@
 				35A6A84A276B3AFC00AD57B6 /* ScrollViewBootcamp.swift in Sources */,
 				35600F69276A5BF900FC0257 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				35E6AC15276F1CAA00553543 /* ContextMenuBootcamp.swift in Sources */,
+				351193A0276F9ACE006962E6 /* TextFieldBootcamp.swift in Sources */,
 				35AB557B2769BBB100BF0893 /* ColorsBootcamp.swift in Sources */,
 				35D5A909276CFD6300091C83 /* ExtractSubviewsBootcamp.swift in Sources */,
 				35C4EAA4276A362C00FCB5EB /* FrameBootcamp.swift in Sources */,
